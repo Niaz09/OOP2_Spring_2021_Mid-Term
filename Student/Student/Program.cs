@@ -4,26 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Student
+namespace Student 
 {
-    class Program
-    {
-        static void Main(string[] args)
+    
+        public class Student
         {
-            public string name;
-            public string id;
-            public string department;
-            public float cgpa;
+            private string name;
+            private string id;
+            private string department;
+            private float cgpa;
 
-        public Student()
-        {
+            public Student()
+            {
 
+            }
+            public Student(string name,string id,string department,float cgpa)
+            {
+                this.name = name;
+                this.id = id;
+                this.department = department;
+                this.cgpa = cgpa;
+
+            }
+            public void ShowInfo()
+            {
+                Console.WriteLine("Student name: " + name);
+                Console.WriteLine("Student ID: " + id);
+                Console.WriteLine("Student department: " + department);
+                Console.WriteLine("Student cgpa: " + cgpa);
+            }
         }
-        public Student()
-
-
-
-
-        }
-}
+    
 }
