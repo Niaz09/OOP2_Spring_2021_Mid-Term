@@ -1,0 +1,6 @@
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Course\bin\Debug\Course.exe.config
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Course\bin\Debug\Course.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Course\bin\Debug\Course.pdb
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Course\obj\Debug\Course.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Course\obj\Debug\Course.pdb
