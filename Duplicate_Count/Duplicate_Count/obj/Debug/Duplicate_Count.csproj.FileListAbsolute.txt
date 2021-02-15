@@ -1,0 +1,7 @@
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Duplicate_Count\Duplicate_Count\bin\Debug\Duplicate_Count.exe.config
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Duplicate_Count\Duplicate_Count\bin\Debug\Duplicate_Count.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Duplicate_Count\Duplicate_Count\bin\Debug\Duplicate_Count.pdb
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Duplicate_Count\Duplicate_Count\obj\Debug\Duplicate_Count.csprojAssemblyReference.cache
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Duplicate_Count\Duplicate_Count\obj\Debug\Duplicate_Count.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Duplicate_Count\Duplicate_Count\obj\Debug\Duplicate_Count.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Duplicate_Count\Duplicate_Count\obj\Debug\Duplicate_Count.pdb

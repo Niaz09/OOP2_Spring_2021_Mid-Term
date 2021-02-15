@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Array_Copy
 {
-   class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -20,9 +20,9 @@ namespace Array_Copy
                     {
                         count++;
                         break;
-                        
+
                     }
-                    
+
                 }
             }
             Console.WriteLine("Total Number of duplicate elements: {0}", count);
