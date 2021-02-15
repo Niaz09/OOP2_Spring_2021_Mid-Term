@@ -1,0 +1,7 @@
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Copy_Array\bin\Debug\Copy_Array.exe.config
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Copy_Array\bin\Debug\Copy_Array.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Copy_Array\bin\Debug\Copy_Array.pdb
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Copy_Array\obj\Debug\Copy_Array.csprojAssemblyReference.cache
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Copy_Array\obj\Debug\Copy_Array.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Copy_Array\obj\Debug\Copy_Array.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Copy_Array\obj\Debug\Copy_Array.pdb
