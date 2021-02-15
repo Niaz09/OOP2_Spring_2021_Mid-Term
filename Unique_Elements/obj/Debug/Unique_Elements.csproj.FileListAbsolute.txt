@@ -1,0 +1,7 @@
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Unique_Elements\bin\Debug\Unique_Elements.exe.config
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Unique_Elements\bin\Debug\Unique_Elements.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Unique_Elements\bin\Debug\Unique_Elements.pdb
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Unique_Elements\obj\Debug\Unique_Elements.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Unique_Elements\obj\Debug\Unique_Elements.exe
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Unique_Elements\obj\Debug\Unique_Elements.pdb
+C:\Users\Preeti Rahman\Desktop\C sharp codes\Unique_Elements\obj\Debug\Unique_Elements.csprojAssemblyReference.cache

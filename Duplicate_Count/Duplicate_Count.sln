@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate_Count", "Duplicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy_Array", "..\Copy_Array\Copy_Array.csproj", "{ED02CFD6-5934-4E82-9E41-EBA9C83B3AE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique_Elements", "..\Unique_Elements\Unique_Elements.csproj", "{635210FC-BA1D-4B91-84EF-65A5B0C8C4D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED02CFD6-5934-4E82-9E41-EBA9C83B3AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED02CFD6-5934-4E82-9E41-EBA9C83B3AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED02CFD6-5934-4E82-9E41-EBA9C83B3AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635210FC-BA1D-4B91-84EF-65A5B0C8C4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635210FC-BA1D-4B91-84EF-65A5B0C8C4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635210FC-BA1D-4B91-84EF-65A5B0C8C4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635210FC-BA1D-4B91-84EF-65A5B0C8C4D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
